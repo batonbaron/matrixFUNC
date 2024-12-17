@@ -1,0 +1,3 @@
+C:/Users/baton/CLionProjects/matrixsFUNC/cmake-build-debug/CMakeFiles/matrixsFUNC.dir
+C:/Users/baton/CLionProjects/matrixsFUNC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/baton/CLionProjects/matrixsFUNC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
